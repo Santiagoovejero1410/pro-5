@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Detalle del País</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-brand">
+      <span>🌎</span>
+      <h1>Países del Mundo</h1>
+    </div>
+    <nav class="nav">
+      <a href="/index.html" class="nav-link">Inicio</a>
+      <a href="/src/pages/countries/index.html" class="nav-link">Listado</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <button id="btnVolver" class="btn-volver">← Volver al listado</button>
+<div id="loader" class="loader hidden"></div>    <div id="errorMessage" class="error-message hidden"></div>
+    <div id="countryDetail" class="detail-card hidden"></div>
+  </main>
+
+<script type="module" src="./country-detail.js"></script>
+</html>
+</body>

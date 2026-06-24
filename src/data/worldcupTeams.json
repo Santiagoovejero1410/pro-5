@@ -1,0 +1,813 @@
+[{
+  "code": "ARG",
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "region": "América",
+  "participaciones": 19,
+  "titulos": 3,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "BRA",
+  "name": "Brasil",
+  "capital": "Brasilia",
+  "region": "América",
+  "participaciones": 22,
+  "titulos": 5,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "URY",
+  "name": "Uruguay",
+  "capital": "Montevideo",
+  "region": "América",
+  "participaciones": 14,
+  "titulos": 2,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "COL",
+  "name": "Colombia",
+  "capital": "Bogotá",
+  "region": "América",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": true
+},
+{
+  "code": "ECU",
+  "name": "Ecuador",
+  "capital": "Quito",
+  "region": "América",
+  "participaciones": 5,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "PRY",
+  "name": "Paraguay",
+  "capital": "Asunción",
+  "region": "América",
+  "participaciones": 9,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": true
+},
+{
+  "code": "USA",
+  "name": "Estados Unidos",
+  "capital": "Washington D.C.",
+  "region": "América",
+  "participaciones": 12,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": true
+},
+{
+  "code": "MEX",
+  "name": "México",
+  "capital": "Ciudad de México",
+  "region": "América",
+  "participaciones": 18,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": true
+},
+{
+  "code": "CAN",
+  "name": "Canadá",
+  "capital": "Ottawa",
+  "region": "América",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "PAN",
+  "name": "Panamá",
+  "capital": "Ciudad de Panamá",
+  "region": "América",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "HTI",
+  "name": "Haití",
+  "capital": "Puerto Príncipe",
+  "region": "América",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "CHL",
+  "name": "Chile",
+  "capital": "Santiago",
+  "region": "América",
+  "participaciones": 9,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": false
+},
+{
+  "code": "PER",
+  "name": "Perú",
+  "capital": "Lima",
+  "region": "América",
+  "participaciones": 5,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "VEN",
+  "name": "Venezuela",
+  "capital": "Caracas",
+  "region": "América",
+  "participaciones": 0,
+  "titulos": 0,
+  "mejorResultado": "Nunca clasificó",
+  "clasificado2026": false
+},
+{
+  "code": "BOL",
+  "name": "Bolivia",
+  "capital": "Sucre",
+  "region": "América",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Primera fase",
+  "clasificado2026": false
+},
+{
+  "code": "FRA",
+  "name": "Francia",
+  "capital": "París",
+  "region": "Europa",
+  "participaciones": 16,
+  "titulos": 2,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "ESP",
+  "name": "España",
+  "capital": "Madrid",
+  "region": "Europa",
+  "participaciones": 16,
+  "titulos": 1,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "ENG",
+  "name": "Inglaterra",
+  "capital": "Londres",
+  "region": "Europa",
+  "participaciones": 17,
+  "titulos": 1,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "DEU",
+  "name": "Alemania",
+  "capital": "Berlín",
+  "region": "Europa",
+  "participaciones": 20,
+  "titulos": 4,
+  "mejorResultado": "Campeón",
+  "clasificado2026": true
+},
+{
+  "code": "ITA",
+  "name": "Italia",
+  "capital": "Roma",
+  "region": "Europa",
+  "participaciones": 18,
+  "titulos": 4,
+  "mejorResultado": "Campeón",
+  "clasificado2026": false
+}, 
+{
+  "code": "PRT",
+  "name": "Portugal",
+  "capital": "Lisboa",
+  "region": "Europa",
+  "participaciones": 9,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": true
+},
+{
+  "code": "NLD",
+  "name": "Países Bajos",
+  "capital": "Ámsterdam",
+  "region": "Europa",
+  "participaciones": 11,
+  "titulos": 0,
+  "mejorResultado": "Finalista",
+  "clasificado2026": true
+},
+{
+  "code": "BEL",
+  "name": "Bélgica",
+  "capital": "Bruselas",
+  "region": "Europa",
+  "participaciones": 14,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": true
+},
+{
+  "code": "CHE",
+  "name": "Suiza",
+  "capital": "Berna",
+  "region": "Europa",
+  "participaciones": 13,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": true
+},
+{
+  "code": "AUT",
+  "name": "Austria",
+  "capital": "Viena",
+  "region": "Europa",
+  "participaciones": 8,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": true
+},
+{
+  "code": "SCO",
+  "name": "Escocia",
+  "capital": "Edimburgo",
+  "region": "Europa",
+  "participaciones": 9,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "SWE",
+  "name": "Suecia",
+  "capital": "Estocolmo",
+  "region": "Europa",
+  "participaciones": 13,
+  "titulos": 0,
+  "mejorResultado": "Finalista",
+  "clasificado2026": true
+},
+{
+  "code": "HRV",
+  "name": "Croacia",
+  "capital": "Zagreb",
+  "region": "Europa",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Finalista",
+  "clasificado2026": true
+},
+{
+  "code": "NOR",
+  "name": "Noruega",
+  "capital": "Oslo",
+  "region": "Europa",
+  "participaciones": 4,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": true
+},
+{
+  "code": "TUR",
+  "name": "Turquía",
+  "capital": "Ankara",
+  "region": "Europa",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": true
+},
+{
+  "code": "CZE",
+  "name": "Chequia",
+  "capital": "Praga",
+  "region": "Europa",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Finalista",
+  "clasificado2026": true
+},
+{
+  "code": "BIH",
+  "name": "Bosnia y Herzegovina",
+  "capital": "Sarajevo",
+  "region": "Europa",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "IRL",
+  "name": "Irlanda",
+  "capital": "Dublín",
+  "region": "Europa",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "WAL",
+  "name": "Gales",
+  "capital": "Cardiff",
+  "region": "Europa",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "ISL",
+  "name": "Islandia",
+  "capital": "Reikiavik",
+  "region": "Europa",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "GRE",
+  "name": "Grecia",
+  "capital": "Atenas",
+  "region": "Europa",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "ROU",
+  "name": "Rumania",
+  "capital": "Bucarest",
+  "region": "Europa",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "FIN",
+  "name": "Finlandia",
+  "capital": "Helsinki",
+  "region": "Europa",
+  "participaciones": 0,
+  "titulos": 0,
+  "mejorResultado": "Nunca clasificó",
+  "clasificado2026": false
+},
+{
+  "code": "KOS",
+  "name": "Kosovo",
+  "capital": "Pristina",
+  "region": "Europa",
+  "participaciones": 0,
+  "titulos": 0,
+  "mejorResultado": "Nunca clasificó",
+  "clasificado2026": false
+},
+{
+  "code": "SMR",
+  "name": "San Marino",
+  "capital": "San Marino",
+  "region": "Europa",
+  "participaciones": 0,
+  "titulos": 0,
+  "mejorResultado": "Nunca clasificó",
+  "clasificado2026": false
+},
+{
+  "code": "MAR",
+  "name": "Marruecos",
+  "capital": "Rabat",
+  "region": "África",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "4° puesto",
+  "clasificado2026": true
+},
+{
+  "code": "SEN",
+  "name": "Senegal",
+  "capital": "Dakar",
+  "region": "África",
+  "participaciones": 4,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": true
+},
+{
+  "code": "GHA",
+  "name": "Ghana",
+  "capital": "Acra",
+  "region": "África",
+  "participaciones": 5,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": true
+},
+{
+  "code": "TUN",
+  "name": "Túnez",
+  "capital": "Túnez",
+  "region": "África",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "EGY",
+  "name": "Egipto",
+  "capital": "El Cairo",
+  "region": "África",
+  "participaciones": 4,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "DZA",
+  "name": "Argelia",
+  "capital": "Argel",
+  "region": "África",
+  "participaciones": 5,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": true
+},
+{
+  "code": "CIV",
+  "name": "Costa de Marfil",
+  "capital": "Yamusukro",
+  "region": "África",
+  "participaciones": 4,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "ZAF",
+  "name": "Sudáfrica",
+  "capital": "Pretoria",
+  "region": "África",
+  "participaciones": 4,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "CMR",
+  "name": "Camerún",
+  "capital": "Yaundé",
+  "region": "África",
+  "participaciones": 8,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "NGA",
+  "name": "Nigeria",
+  "capital": "Abuya",
+  "region": "África",
+  "participaciones": 6,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": false
+},
+{
+  "code": "JPN",
+  "name": "Japón",
+  "capital": "Tokio",
+  "region": "Asia",
+  "participaciones": 8,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": true
+},
+{
+  "code": "KOR",
+  "name": "Corea del Sur",
+  "capital": "Seúl",
+  "region": "Asia",
+  "participaciones": 12,
+  "titulos": 0,
+  "mejorResultado": "4° puesto",
+  "clasificado2026": true
+},
+{
+  "code": "IRN",
+  "name": "Irán",
+  "capital": "Teherán",
+  "region": "Asia",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "SAU",
+  "name": "Arabia Saudita",
+  "capital": "Riad",
+  "region": "Asia",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": true
+},
+{
+  "code": "QAT",
+  "name": "Qatar",
+  "capital": "Doha",
+  "region": "Asia",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "IRQ",
+  "name": "Irak",
+  "capital": "Bagdad",
+  "region": "Asia",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "JOR",
+  "name": "Jordania",
+  "capital": "Amán",
+  "region": "Asia",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Debut",
+  "clasificado2026": true
+},
+{
+  "code": "UZB",
+  "name": "Uzbekistán",
+  "capital": "Taskent",
+  "region": "Asia",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Debut",
+  "clasificado2026": true
+},
+{
+  "code": "CHN",
+  "name": "China",
+  "capital": "Pekín",
+  "region": "Asia",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "IND",
+  "name": "India",
+  "capital": "Nueva Delhi",
+  "region": "Asia",
+  "participaciones": 0,
+  "titulos": 0,
+  "mejorResultado": "Nunca clasificó",
+  "clasificado2026": false
+},
+{
+  "code": "AUS",
+  "name": "Australia",
+  "capital": "Canberra",
+  "region": "Oceanía",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": true
+},
+{
+  "code": "NZL",
+  "name": "Nueva Zelanda",
+  "capital": "Wellington",
+  "region": "Oceanía",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "CUW",
+  "name": "Curazao",
+  "capital": "Willemstad",
+  "region": "América",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Debut",
+  "clasificado2026": true
+},
+{
+  "code": "COD",
+  "name": "República Democrática del Congo",
+  "capital": "Kinsasa",
+  "region": "África",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": true
+},
+{
+  "code": "RUS",
+  "name": "Rusia",
+  "capital": "Moscú",
+  "region": "Europa",
+  "participaciones": 11,
+  "titulos": 0,
+  "mejorResultado": "Cuarto puesto",
+  "clasificado2026": false
+},
+{
+  "code": "UKR",
+  "name": "Ucrania",
+  "capital": "Kiev",
+  "region": "Europa",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "SRB",
+  "name": "Serbia",
+  "capital": "Belgrado",
+  "region": "Europa",
+  "participaciones": 13,
+  "titulos": 0,
+  "mejorResultado": "Semifinalista",
+  "clasificado2026": false
+},
+{
+  "code": "SVN",
+  "name": "Eslovenia",
+  "capital": "Liubliana",
+  "region": "Europa",
+  "participaciones": 2,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "SVK",
+  "name": "Eslovaquia",
+  "capital": "Bratislava",
+  "region": "Europa",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Octavos de final",
+  "clasificado2026": false
+},
+{
+  "code": "HUN",
+  "name": "Hungría",
+  "capital": "Budapest",
+  "region": "Europa",
+  "participaciones": 9,
+  "titulos": 0,
+  "mejorResultado": "Finalista",
+  "clasificado2026": false
+},
+{
+  "code": "POL",
+  "name": "Polonia",
+  "capital": "Varsovia",
+  "region": "Europa",
+  "participaciones": 9,
+  "titulos": 0,
+  "mejorResultado": "Tercer puesto",
+  "clasificado2026": false
+},
+{
+  "code": "DEN",
+  "name": "Dinamarca",
+  "capital": "Copenhague",
+  "region": "Europa",
+  "participaciones": 6,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "BGR",
+  "name": "Bulgaria",
+  "capital": "Sofía",
+  "region": "Europa",
+  "participaciones": 7,
+  "titulos": 0,
+  "mejorResultado": "Cuarto puesto",
+  "clasificado2026": false
+},
+{
+  "code": "CMR2",
+  "name": "Argelia Francesa Histórica",
+  "capital": "Argel",
+  "region": "África",
+  "participaciones": 0,
+  "titulos": 0,
+  "mejorResultado": "N/A",
+  "clasificado2026": false
+},
+{
+  "code": "CRC",
+  "name": "Costa Rica",
+  "capital": "San José",
+  "region": "América",
+  "participaciones": 6,
+  "titulos": 0,
+  "mejorResultado": "Cuartos de final",
+  "clasificado2026": false
+},
+{
+  "code": "JAM",
+  "name": "Jamaica",
+  "capital": "Kingston",
+  "region": "América",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "HON",
+  "name": "Honduras",
+  "capital": "Tegucigalpa",
+  "region": "América",
+  "participaciones": 3,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "TTO",
+  "name": "Trinidad y Tobago",
+  "capital": "Puerto España",
+  "region": "América",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "KUW",
+  "name": "Kuwait",
+  "capital": "Ciudad de Kuwait",
+  "region": "Asia",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "UAE",
+  "name": "Emiratos Árabes Unidos",
+  "capital": "Abu Dhabi",
+  "region": "Asia",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Fase de grupos",
+  "clasificado2026": false
+},
+{
+  "code": "CPV",
+  "name": "Cabo Verde",
+  "capital": "Praia",
+  "region": "África",
+  "participaciones": 1,
+  "titulos": 0,
+  "mejorResultado": "Debut",
+  "clasificado2026": true
+}
+
+
+]

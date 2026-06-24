@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Selecciones Mundial 2026</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-brand">
+      <span>🌎</span>
+      <h1>Países del Mundo</h1>
+    </div>
+    <nav class="nav">
+      <a href="/index.html" class="nav-link">Inicio</a>
+      <a href="/src/pages/countries/index.html" class="nav-link active">Listado</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input type="text" id="searchInput" class="search-input" placeholder="Buscar país por nombre..." />
+      <select id="regionFilter" class="select">
+  <option value="">Todas las regiones</option>
+  <option value="América">América</option>
+  <option value="Europa">Europa</option>
+  <option value="Asia">Asia</option>
+  <option value="África">África</option>
+  <option value="Oceanía">Oceanía</option>
+</select>
+      <select id="sortSelect" class="select">
+  <option value="name-asc">Nombre (A-Z)</option>
+  <option value="name-desc">Nombre (Z-A)</option>
+  <option value="population-desc">Participaciones (mayor a menor)</option>
+  <option value="population-asc">Participaciones (menor a mayor)</option>
+</select>
+      <select id="mundialFilter" class="select">
+        <option value="">Mundial 2026: Todos</option>
+        <option value="si">Clasificados</option>
+        <option value="no">No clasificados</option>
+      </select>
+    </section>
+
+    <p id="resultsCount" class="results-count"></p>
+    <div id="loader" class="loader hidden">Cargando países...</div>
+    <div id="errorMessage" class="error-message hidden"></div>
+    <section id="countriesGrid" class="countries-grid"></section>
+  </main>
+
+  <script type="module" src="./countries.js"></script>
+</body>
+</html>

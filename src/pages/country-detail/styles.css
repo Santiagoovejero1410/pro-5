@@ -1,0 +1,277 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #1a1a1a;
+}
+
+.header {
+  background-color: #1e2a38;
+  color: white;
+  padding: 1.2rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header-brand span {
+  font-size: 1.8rem;
+}
+
+.header h1 {
+  font-size: 1.5rem;
+}
+
+.nav {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-link {
+  color: #cbd5e1;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: background-color 0.2s;
+}
+
+.nav-link:hover {
+  background-color: #324459;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.btn-volver {
+  background: none;
+  border: 1px solid #d1d5db;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+  transition: background-color 0.2s;
+}
+
+.btn-volver:hover {
+  background-color: #e2e8f0;
+}
+
+.detail-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+.detail-flag {
+  width: 100%;
+  max-height: 280px;
+  object-fit: cover;
+}
+
+.detail-body {
+  padding: 2rem;
+}
+
+.detail-body h2 {
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+.detail-oficial {
+  color: #64748b;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.detail-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.detail-item span:first-child {
+  font-size: 0.8rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.detail-item span:last-child {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.mundial-section {
+  margin-top: 1.5rem;
+  padding: 1.2rem;
+  border-radius: 12px;
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+}
+
+.mundial-section h3 {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.mundial-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.mundial-stat {
+  text-align: center;
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.mundial-stat .numero {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #3b82f6;
+}
+
+.mundial-stat .label {
+  font-size: 0.78rem;
+  color: #64748b;
+  margin-top: 0.2rem;
+}
+
+.badge-clasificado {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.badge-clasificado.si {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+
+.badge-clasificado.no {
+  background-color: #f1f5f9;
+  color: #64748b;
+}
+
+.loader,
+.error-message {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1rem;
+}
+
+.error-message {
+  color: #b91c1c;
+  background-color: #fee2e2;
+  border-radius: 8px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+@media (max-width: 600px) {
+  .detail-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .mundial-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+body {
+  background: linear-gradient(
+    135deg,
+    #012169 0%,
+    #ffffff 50%,
+    #ce1126 100%
+  );
+  min-height: 100vh;
+}
+
+.detail-card {
+  max-width: 900px;
+  margin: auto;
+  background: rgba(255,255,255,0.97);
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.20);
+}
+
+.detail-body h2 {
+  text-align: center;
+  font-size: 2.3rem;
+  margin-bottom: 1rem;
+  color: #1e293b;
+}
+
+.badge-clasificado {
+  display: block;
+  width: fit-content;
+  margin: 0 auto 1.5rem auto;
+  padding: 0.7rem 1.2rem;
+  border-radius: 999px;
+  background: #22c55e;
+  color: white;
+  font-weight: bold;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.detail-item {
+  background: #f8fafc;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  transition: 0.2s;
+}
+
+.detail-item:hover {
+  transform: translateY(-3px);
+}
+
+.detail-item span:first-child {
+  font-weight: bold;
+  color: #334155;
+}
+
+.detail-item span:last-child {
+  margin-top: 0.3rem;
+  display: block;
+  color: #0f172a;
+}
