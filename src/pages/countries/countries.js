@@ -1,3 +1,4 @@
+import { getCountriesFromApi } from '../../services/countriesApi.js';
 import { getAllCountries } from '../../services/api.js';
 
 let allCountries = [];
@@ -13,7 +14,10 @@ const errorMessage = document.getElementById('errorMessage');
 
 function showLoader() {
   loader.classList.remove('hidden');
-  countriesGrid.classList.add('hidden');
+  countriesGrid.classList.add('hidden');getCountriesFromApi()
+  .then(data => {
+    console.log(data[0]);
+  });
   errorMessage.classList.add('hidden');
 }
 
@@ -33,7 +37,19 @@ async function loadCountries() {
   showLoader();
 
   try {
-    allCountries = await getAllCountries();
+  const mundialCountries = await getAllCountries();
+const apiCountries = await getCountriesFromApi();
+
+allCountries = mundialCountries.map(country => {
+  const apiCountry = apiCountries.find(
+    c => c.iso3 === country.code
+  );
+
+  return {
+    ...country,
+    apiCapital: apiCountry?.capital || country.capital
+  };
+});
     hideLoader();
     applyFiltersAndRender();
   } catch (error) {
@@ -116,8 +132,7 @@ function renderCountries(countries) {
       <div class="country-card-body">
         <h3>${country.name}</h3>
 
-        <p>🏛 Capital: ${country.capital}</p>
-
+<p>🏛 Capital : ${country.apiCapital}</p>
         <p>🌍 Región: ${country.region}</p>
 
         <p>⚽ Clasificado 2026:
