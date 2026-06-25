@@ -1,5 +1,5 @@
 export async function getAllCountries() {
-  const response = await fetch('/src/data/worldcupTeams.json');
+  const response = await fetch('/worldcupTeams.json');
 
   if (!response.ok) {
     throw new Error('No se pudieron cargar los datos');
