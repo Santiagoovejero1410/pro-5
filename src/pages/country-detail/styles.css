@@ -3,6 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-image: url('https://www.bing.com/th/id/OIP.83MqbpN3QD2-xWnkxsosDAHaEl?w=266&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
 
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
