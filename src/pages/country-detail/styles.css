@@ -9,12 +9,16 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 100vh;
-}
-
-body {
-  font-family: 'Segoe UI', Arial, sans-serif;
+   font-family: 'Segoe UI', Arial, sans-serif;
   background-color: #f4f6f8;
   color: #1a1a1a;
+   background: linear-gradient(
+    135deg,
+    #012169 0%,
+    #ffffff 50%,
+    #ce1126 100%
+  );
+  min-height: 100vh;
 }
 
 .header {
@@ -217,15 +221,7 @@ body {
     grid-template-columns: 1fr 1fr;
   }
 }
-body {
-  background: linear-gradient(
-    135deg,
-    #012169 0%,
-    #ffffff 50%,
-    #ce1126 100%
-  );
-  min-height: 100vh;
-}
+
 
 .detail-card {
   max-width: 900px;
